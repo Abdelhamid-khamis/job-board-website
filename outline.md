@@ -10,7 +10,7 @@
     - Publication date
     - Job Category
     - Experience
-    - Gender
+    - Gender 
 
 
     ### Features
