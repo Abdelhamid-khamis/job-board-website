@@ -31,5 +31,3 @@
         - Search
         - Comments
         - Recent posts
-
-
